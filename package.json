@@ -1,0 +1,24 @@
+{
+  "name": "hubot-stagehand",
+  "version": "0.1.0",
+  "contributors": ["Justin Anderson", "Nelson Enzo", "Nina R."]
+  "description": "Stagehand manages who is currently using your team's staging server.",
+  "keywords": [
+    "hubot",
+    "stagehand"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/nrevko/hubot-stagehand/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/nrevko/hubot-stagehand.git"
+  },
+  "dependencies": {
+  },
+  "license": "MIT",
+  "main": "./src/stagehand"
+}
