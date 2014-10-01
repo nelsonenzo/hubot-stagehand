@@ -1,5 +1,3 @@
-# hubot-stagehand
-
 ## Hubot Stagehand
 
 ### Description:
@@ -13,11 +11,17 @@
 
 ### Commands:
   `stagehand who [env]` - Show who has booked the staging server and how much time they have left
+
   `stagehand book [env] [minutes]` - Book the staging server and optionally specify usage time. Default is 30min
+
   `stagehand cancel [env]` - Cancel the current booking. Defaults to cancel staging.
+
   `stagehand list` - List all environments and their status
+
   `stagehand add [env]` - Add an environment
+
   `stagehand remove [env]` - Remove an environment
+
   `stagehand help` - Display available commands
 
 ### Author:
