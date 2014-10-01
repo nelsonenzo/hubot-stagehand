@@ -1,7 +1,7 @@
 {
   "name": "hubot-stagehand",
   "version": "0.1.0",
-  "contributors": ["Justin Anderson", "Nelson Enzo", "Nina R."]
+  "contributors": ["Justin Anderson", "Nelson Enzo", "Nina R."],
   "description": "Stagehand manages who is currently using your team's staging server.",
   "keywords": [
     "hubot",
